@@ -152,7 +152,7 @@ esp.local.wallbanginfo.dmg "Off"
 esp.local.wallbanginfo.grid "Off"
 esp.master "On"
 esp.other 
-esp.other.antiobs "On"
+esp.other.antiobs "Off"
 esp.other.antiscreenshot "On"
 esp.other.crosshair "Off"
 esp.other.crosshair.clr 255 0 0 255
